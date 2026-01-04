@@ -1,0 +1,22 @@
+{
+  "name": "GPB Token List",
+  "timestamp": "2026-01-04T03:30:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/<your-github-username>/<your-repo>/main/assets/gpb.png",
+  "keywords": ["gpb", "arbitrum"],
+  "tokens": [
+    {
+      "chainId": 42161,
+      "address": "0xcbEFE7afD1E675e2b1DAE68e3699d994aa79aBc5",
+      "name": "GPB Token",
+      "symbol": "GPB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/<your-github-username>/<your-repo>/main/assets/gpb.png"
+    }
+  ]
+}
